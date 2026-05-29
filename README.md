@@ -1,6 +1,6 @@
 # Hey, I'm Najma 👋
 
-Welcome to my GitHub. I'll let the repos do most of the talking.
+Welcome to my GitHub.
 
 **A bit about me**
 
