@@ -5,9 +5,9 @@ Welcome to my GitHub.
 **A bit about me**
 
 - Backend engineer who gets obsessed with how systems work under real load
-- Currently studying Data Science & AI at IIT Guwahati
 - I gravitate toward distributed systems, real-time architectures, and APIs built to last
 - I build things to understand them. The best way to learn a system is to break it yourself first
+- Currently studying Data Science & AI at IIT Guwahati
 
 #
 
